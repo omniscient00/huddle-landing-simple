@@ -41,8 +41,7 @@ Users should be able to:
 ##### Mobile View
 
 
-   ![Screen Shot 2021-06-23 at 2 15 37 AM](https://user-images.githubusercontent.com/85682500/122978291-ef801280-d3c8-11eb-9cc0-47177cade1c5.png)
-
+   
 
 ## My process
 
@@ -58,6 +57,8 @@ Users should be able to:
 
 - [A Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 - [w3Schools Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- [Accessibility with Font Awesome icons](https://fontawesome.com/v5.15/how-to-use/on-the-web/other-topics/accessibility)
+- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 
 ## Author
