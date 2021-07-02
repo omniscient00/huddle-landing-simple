@@ -48,7 +48,7 @@ main {
 /*==============ILLUSTRATION MOCKUP===================*/
 .huddle-img {
     max-width: 85vw;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 
 /*==============MAIN CONTENT===================*/
@@ -202,7 +202,7 @@ footer a {
             FOOTER (SOCIAL MEDIA ICONS)
     ===================================================== */
     footer {
-        margin: 30px 70px 20px 0;
+        margin: 30px 70px 0 0;
     }
 
     footer ul {
