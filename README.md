@@ -1,4 +1,4 @@
-![Screen Shot 2021-07-02 at 11 47 42 PM](https://user-images.githubusercontent.com/85682500/124305961-5e632580-db98-11eb-89f3-e5ee6ebf1e95.png)
+
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
