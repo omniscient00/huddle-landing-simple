@@ -1,3 +1,4 @@
+![Screen Shot 2021-07-02 at 11 47 42 PM](https://user-images.githubusercontent.com/85682500/124305961-5e632580-db98-11eb-89f3-e5ee6ebf1e95.png)
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
@@ -41,7 +42,8 @@ Users should be able to:
 ##### Mobile View
 
 
-   
+   ![Screen Shot 2021-07-02 at 11 47 42 PM](https://user-images.githubusercontent.com/85682500/124305967-60c57f80-db98-11eb-833b-03c71e6d4be0.png)
+
 
 ## My process
 
